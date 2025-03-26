@@ -1,0 +1,10 @@
+E:\Project\GitHub\OPI\Lab_3_V2\bin\Debug\Lab_3_V2.exe.config
+E:\Project\GitHub\OPI\Lab_3_V2\bin\Debug\Lab_3_V2.exe
+E:\Project\GitHub\OPI\Lab_3_V2\bin\Debug\Lab_3_V2.pdb
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.csproj.AssemblyReference.cache
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.Form1.resources
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.Properties.Resources.resources
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.csproj.GenerateResource.cache
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.csproj.CoreCompileInputs.cache
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.exe
+E:\Project\GitHub\OPI\Lab_3_V2\obj\Debug\Lab_3_V2.pdb
